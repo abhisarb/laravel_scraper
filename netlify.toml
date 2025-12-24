@@ -1,3 +1,4 @@
+# Netlify Configuration
 [build]
   base = "laravel/frontend"
   command = "npm run build"
