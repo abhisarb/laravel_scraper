@@ -3,8 +3,8 @@
 This project simulates a full content enhancement pipeline: Scraping -> AI Rewriting -> Publishing -> Frontend Display.
 
 ## 🔗 Live Link
-**[INSERT YOUR LIVE FRONTEND URL HERE]**
-*(Please update this link before submission)*
+**Frontend (Netlify):** [https://laravel-scraper-0eb7f1.netlify.app](https://laravel-scraper-0eb7f1.netlify.app)
+**Backend (Railway):** [https://laravelscraper-production.up.railway.app](https://laravelscraper-production.up.railway.app)
 
 ## 🏗️ Architecture / Data Flow
 
